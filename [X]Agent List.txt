@@ -5,7 +5,7 @@ Jett		:0
 Omen		:0
 Phoenix		:0
 Raze		:0
-Reyna		:0
+Reyna		:1090
 Sage		:0
 Sova		:0
 Viper		:0
